@@ -26,4 +26,25 @@
     }
 }
 
-        
+ i.fa-facebook-official:hover{
+  color: #3b5998;
+}
+
+i.fa-instagram:hover{
+  background: linear-gradient(45deg, #833AB4, #FD1D1D, #FCAF45);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+i.fa-snapchat:hover{
+  color: yellow;
+}
+
+i.fa-twitter:hover{
+  color: rgb(68, 68, 251);
+}
+
+i.fa-linkedin:hover{
+  color: rgb(18, 18, 251);
+}       
