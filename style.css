@@ -1,0 +1,29 @@
+@media (max-width: 600px) {
+    img.logo{
+      width: 100%;;
+    }
+
+    h1.w3-jumbo{
+        font-size: 25px !important;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    img.logo{
+      width: 100%;
+    }
+
+    h1.w3-jumbo{
+        font-size: 60px !important;
+    }
+
+}
+
+@media (min-width: 1024px) {
+    img.logo{
+      width: 100%;
+    }
+}
+
+        
